@@ -2,7 +2,7 @@
 
 [**🔗 Live Demo**](https://rugung-daimary-portfolio.vercel.app/)
 
-![Portfolio Website Screenshot](https://github.com/user-attachments/assets/9fb7dd3f-1c9b-49e7-bd0a-3f2e8d568784)
+![Portfolio Website Screenshot](https://github.com/user-attachments/assets/515a2aef-57be-4f6f-926b-b82856761804)
 
 <div align="center">
 
