@@ -35,7 +35,7 @@ const Home = () => {
                 src={homeLogo}
                 alt="home pic"
                 className="img-fluid"
-                style={{ maxHeight: "450px" }}
+                style={{ maxHeight: "300px" }}
               />
             </Col>
           </Row>
