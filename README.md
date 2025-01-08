@@ -1,8 +1,8 @@
 # Rugung Daimary Portfolio Website
 
-[🔗Live Demo🔗](https://sajib.vercel.app/)
+[🔗Live Demo🔗](https://rugung-daimary-portfolio.vercel.app/)
 
-![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png)
+![Portfolio Website](https://github.com/your-username/your-repository/blob/main/path-to-your-image/your-image.png)
 
 <div align="center">
 
