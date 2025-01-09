@@ -39,13 +39,12 @@
 
 .home-logo {
   max-height: 350px;
-  /* Default size */
 }
 
 @media (max-width: 767px) {
   .home-logo {
     max-height: 100px;
-    /* Smaller size for phone screens */
+
   }
   
 }
